@@ -1,0 +1,37 @@
+[Adblock Plus]
+! Title: HaGeZi's Huawei Tracker - blocks built-in trackers from devices, apps, and OSes!
+! Description:Blocks google ads/ zee 5/ sonyliv, JioHotstar (disny plus hotstar), prime video (partial block 66%) Adds.
+! Homepage: https://github.com/hagezi/dns-blocklists
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
+! Expires: 8 hours
+! Last modified: 28 Oct 2026 02:12 UTC
+! Version: 2026.1028.0836.07
+! Syntax: AdBlock
+! Number of entries: 23
+
+
+||googleads.g.doubleclick.net^
+||googleadservices.com^
+||lh3.googleusercontent.com^
+||s3.ll.videorolls.row.aiv-cdn.net^
+||clientservices.googleapis.com^
+||ads.pubmatic.com^
+||ade.googlesyndication.com^
+||tcp.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||ad.doubleclick.net^
+||hesads.akamaized.net^
+||logs.ads.vungle.com^
+||global.telemetry.insights.video.a2z.com^
+||aiplusstore.com^
+||api.ono.eu-south-2.prod.mt.paets.advertising.amazon.dev^
+||service.hotstar.com^^
+||radiancerelaysacred.com^
+||bifrost-api.hotstar.com^
+||dt.adsafeprotected.com^
+||pixel.adsafeprotected.com^
+||unified.adsafeprotected.com^
+||hses9.hotstar.com^
+||1.rome.api.flipkart.net^
